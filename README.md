@@ -1,4 +1,4 @@
-# SimGRew: A Simple Transductive Graph Rewiring Framework for Addressing Graph Heterophily
+# Efficient and Differentiable Graph Rewiring: Enhancing Graph Neural Networks with Learnable Sparsity and Improved Multi-hop Connectivity
 ![SimGRew-model](https://github.com/kushalbose92/simgrew/blob/main/model.png)
 
 ## Dependencies
@@ -9,12 +9,22 @@
 * DGL 0.9.1
 * OGB 1.3.6
 
-## Datasets 
+## Heterophilic Graphs 
 
 * Chameleon
 * Squirrel
 * Actor
 * Snap-patents
+* genius
+
+## Molecular Graphs
+
+* REDDIT-BINARY
+* IMDB-BINARY
+* MUTAG
+* ENZYMES
+* PROTEINS
+* COLLAB
   
 ## Usage
 
