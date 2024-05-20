@@ -1,5 +1,5 @@
 # SimGRew: A Simple Transductive Graph Rewiring Framework for Addressing Graph Heterophily
-![SimGRew-model](https://github.com/kushalbose92/DEGR/blob/main/model.png)
+![SimGRew-model](https://github.com/kushalbose92/simgrew/blob/main/model.png)
 
 ## Dependencies
 
