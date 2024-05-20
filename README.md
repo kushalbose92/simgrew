@@ -28,6 +28,7 @@
   
 ## Usage
 
-To reproduce results run the follwoing scripts
+To reproduce results run the following scripts
 ```
-sh run.sh
+SimGRew//sh run.sh
+SimGRew++/run.sh
